@@ -8,3 +8,4 @@ We want to show links between pages, so you can check out [index.md](index.md) f
 
 ## Contact us
  - Email: [{{ site.email }}](mailto: {{ site.email }} )
+ - Write to My P.A: {{ site.thingsilike }}
