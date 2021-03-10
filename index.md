@@ -1,6 +1,7 @@
 ---
 layout: default
 lesson-example: "https://carpentries.github.io/lesson-example/"
+title: "welcome to the site"
 ---
 
 # {{ site.title }}
