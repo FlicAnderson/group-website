@@ -4,7 +4,7 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 title: "our index page"
 ---
 
-# {{ page.title }}
+# {{ site.title }}
 
 ## Description
 {{ site.description }}
