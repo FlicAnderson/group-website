@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # About
 
 Here's some details about what this is about:
