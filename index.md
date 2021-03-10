@@ -2,7 +2,7 @@
 lesson-example: "https://carpentries.github.io/lesson-example/ "
 ---
 
-[![Group Website banner](./image/site_banner.png)](https://flicanderson.github.io/group-website/)
+{% include banner.md %}
 
 # {{ site.title }}
 
