@@ -2,8 +2,7 @@
 layout: page
 ---
 
-# About
-
+## Project 
 Here's some details about what this is about:
 
 {{ site.description }}
