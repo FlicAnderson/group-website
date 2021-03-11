@@ -2,3 +2,8 @@ title: "Building Websites in GitHub"
 description: "this is a descriptive bit of text, helping describe our project about building project websites in github with github pages"
 email: "team@carpentries.org" 
 thingsilike: "my cat @ anywhere she pleases to sit"
+team_members: [
+    {name: "Sarah Becker", role: "project lead", start_date: "2016-02-01"},
+    {name: "Jane Smith", role: "maintainer", start_date: "2018-03-15"},
+    {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
+]
