@@ -10,7 +10,7 @@ title: "Learning how to build websites with Jekyll"
 {%  assign lead = site.team_members | where:"role", "project lead" | first %}
 The project is led by {{ lead.name }}.
 
-[See our full team](/about)
+[See our full team](./about)
 
 If you want to know more, you can check [the about page](about.md).
 
