@@ -13,3 +13,9 @@ The project is led by {{ lead.name }}. [See our full team](about#team).
 If you want to know more, you can check [the about page](about).
 
 See some [examples of our work]({{ page.lesson-example }}).
+
+## Blog Posts
+
+{% for post in site.posts %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
+{% endfor %}
