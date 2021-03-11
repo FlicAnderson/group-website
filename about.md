@@ -13,5 +13,13 @@ We want to show links between pages, so you can check out [index.md](index.md) f
 ## Funders
 Some info
 
+
+## Team
+
+{% for team_member in site.team_members %}
+ - **Name:** {{ team_member.name }}, **role:** {{ team_member.role }}
+{% endfor %}
+
+
 ## Cite us
 Some info
